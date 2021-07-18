@@ -1,7 +1,8 @@
 # MechaCar_Statistical_Analysis
 
 ## Deliverable 1 
-## Linear Regression to Predict MPG **Greener Cars! Not.**
+## Linear Regression to Predict MPG  
+*Greener Cars! Not.*
 
 The era of green cars continues to move forward.  The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Using R we will design a linear model that predicts the mpg of MechaCar prototypes using several variables/Coefficients.
 ### A. Linear Regression
@@ -20,7 +21,9 @@ Using the script to calculate the summary of linear regression model we can dete
 3. The linear model does not predict mpg of MechaCar prototypes effectively because the p value of the multiple linear regression is 5.35e-11 which is higher than 0.05 and is not signficant.
 
 ## Deliverable 2 
-## Summary Statistics on Suspension Coils **or Built For Comfort Not For Speed**
+## Summary Statistics on Suspension Coils   
+*Its Built For Comfort...*  
+
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.  
 We will calculate the following using R
 
@@ -39,7 +42,9 @@ The current manufacturing data meets this design specification for all manufactu
 
  
 ## Deliverable 3 
-## T-Tests on Suspension Coils
+## T-Tests on Suspension Coils  
+*...Not For Speed*
+
 We will perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 ### A. To Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 The p value is 1 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted
@@ -65,7 +70,8 @@ The p value is 0.1589 which is greater than 0.05 and is therfore not significant
 Looking at the p value for all the manufacturing lots together is greater than 0.05 and is not significant so the null hypothesis can be accepted.Similarly the null hypothesis for lot1 and lot 3 can also be accepted as the p values are also greater that 0.05. The null hypothesis for lot2 can be rejected as the p value is less than 0.05 
 
 ## Deliverable 4
-## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition   
+*Whatever happened to the NHRA and NASCAR?   Straightline or oval - Winner take all!*
 
 The various comparable factors that MechaCar can perform against the competition would be cost,highway fuel efficiency, horse power, maintenance cost,seating capacity,PSI, mpg,ground clearence,fuel type,safety rating etc.
 
