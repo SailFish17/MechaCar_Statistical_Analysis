@@ -1,9 +1,9 @@
 # MechaCar_Statistical_Analysis
 
 ## Deliverable 1 
-## Linear Regression to Predict MPG
+## Linear Regression to Predict MPG **Greener Cars! Not.**
 
-The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Using R we will design a linear model that predicts the mpg of MechaCar prototypes using several variables/Coefficients.
+The era of green cars continues to move forward.  The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Using R we will design a linear model that predicts the mpg of MechaCar prototypes using several variables/Coefficients.
 ### A. Linear Regression
 Using the script to calculate the linear regression we get the below coefficients.
 
@@ -20,7 +20,7 @@ Using the script to calculate the summary of linear regression model we can dete
 3. The linear model does not predict mpg of MechaCar prototypes effectively because the p value of the multiple linear regression is 5.35e-11 which is higher than 0.05 and is not signficant.
 
 ## Deliverable 2 
-## Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils **or Built For Comfort Not For Speed**
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.  
 We will calculate the following using R
 
@@ -35,7 +35,7 @@ The lot_summary in the below table shows the mean,median, variance and SD for th
 ![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/lot_summary.PNG)
 
 The design specifications for the MechaCar suspension coils dictates that the variance of the suspension coils must not exceed 100 pounds per square inch.
-The current manufacturing data meets this design specification for all manufacturing lots in total which is below 100 PSI.But when we look at the lots individually we can see that Lot3 has PSI higher than 100.
+The current manufacturing data meets this design specification for all manufacturing lots in total which is below 100 PSI.But when we look at the lots individually we can see that Lot3 has PSI higher than 100.  
 
  
 ## Deliverable 3 
